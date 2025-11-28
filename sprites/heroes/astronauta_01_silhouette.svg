@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- astronauta 01 - silhouette style -->
+  <g fill="#000000"><circle cx="64" cy="40" r="26"/>
+  <ellipse cx="64" cy="80" rx="24" ry="28"/>
+  <ellipse cx="32" cy="76" rx="10" ry="20"/>
+  <ellipse cx="96" cy="76" rx="10" ry="20"/>
+  <ellipse cx="52" cy="110" rx="10" ry="14"/>
+  <ellipse cx="76" cy="110" rx="10" ry="14"/>
+  </g>
+</svg>

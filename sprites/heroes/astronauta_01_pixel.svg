@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" shape-rendering="crispEdges">
+  <!-- astronauta 01 - pixel art style -->
+  <g>
+  <!-- Helmet -->
+  <rect x="40" y="16" width="48" height="40" fill="#fff"/>
+  <rect x="48" y="24" width="32" height="24" fill="#00bfff"/>
+  <!-- Body -->
+  <rect x="36" y="56" width="56" height="40" fill="#eee"/>
+  <!-- Arms -->
+  <rect x="16" y="56" width="20" height="32" fill="#ddd"/>
+  <rect x="92" y="56" width="20" height="32" fill="#ddd"/>
+  <!-- Legs -->
+  <rect x="40" y="96" width="20" height="20" fill="#ccc"/>
+  <rect x="68" y="96" width="20" height="20" fill="#ccc"/>
+  <!-- Backpack -->
+  <rect x="32" y="60" width="8" height="28" fill="#666"/>
+  </g>
+</svg>

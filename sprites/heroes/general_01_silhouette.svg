@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- general 01 - silhouette style -->
+  <g fill="#000000"><rect x="36" y="12" width="56" height="12" rx="2"/>
+  <ellipse cx="64" cy="24" rx="24" ry="10"/>
+  <ellipse cx="64" cy="44" rx="18" ry="16"/>
+  <rect x="40" y="58" width="48" height="44" rx="4"/>
+  <ellipse cx="52" cy="110" rx="10" ry="12"/>
+  <ellipse cx="76" cy="110" rx="10" ry="12"/>
+  </g>
+</svg>

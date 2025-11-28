@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- municion 01 - silhouette style -->
+  <g fill="#000000"><ellipse cx="32" cy="68" rx="10" ry="32"/>
+  <ellipse cx="64" cy="68" rx="10" ry="32"/>
+  <ellipse cx="96" cy="68" rx="10" ry="32"/>
+  </g>
+</svg>
