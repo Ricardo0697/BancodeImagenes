@@ -1,0 +1,949 @@
+{
+  "assets": [
+    {
+      "path": "sprites/enemigos/ogro_01_pixel.svg",
+      "name": "ogro_01",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/ogro_01_flat.svg",
+      "name": "ogro_01",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/ogro_01_silhouette.svg",
+      "name": "ogro_01",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/ogro_02_pixel.svg",
+      "name": "ogro_02",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/ogro_02_flat.svg",
+      "name": "ogro_02",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/ogro_02_silhouette.svg",
+      "name": "ogro_02",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_01_pixel.svg",
+      "name": "duende_01",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_01_flat.svg",
+      "name": "duende_01",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_01_silhouette.svg",
+      "name": "duende_01",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_02_pixel.svg",
+      "name": "duende_02",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_02_flat.svg",
+      "name": "duende_02",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_02_silhouette.svg",
+      "name": "duende_02",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_03_pixel.svg",
+      "name": "duende_03",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_03_flat.svg",
+      "name": "duende_03",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_03_silhouette.svg",
+      "name": "duende_03",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_04_pixel.svg",
+      "name": "duende_04",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_04_flat.svg",
+      "name": "duende_04",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/duende_04_silhouette.svg",
+      "name": "duende_04",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/tanque_01_pixel.svg",
+      "name": "tanque_01",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/tanque_01_flat.svg",
+      "name": "tanque_01",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/tanque_01_silhouette.svg",
+      "name": "tanque_01",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/tanque_02_pixel.svg",
+      "name": "tanque_02",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/tanque_02_flat.svg",
+      "name": "tanque_02",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/tanque_02_silhouette.svg",
+      "name": "tanque_02",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_01_pixel.svg",
+      "name": "moto_01",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_01_flat.svg",
+      "name": "moto_01",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_01_silhouette.svg",
+      "name": "moto_01",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_02_pixel.svg",
+      "name": "moto_02",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_02_flat.svg",
+      "name": "moto_02",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_02_silhouette.svg",
+      "name": "moto_02",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_03_pixel.svg",
+      "name": "moto_03",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_03_flat.svg",
+      "name": "moto_03",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_03_silhouette.svg",
+      "name": "moto_03",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_04_pixel.svg",
+      "name": "moto_04",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_04_flat.svg",
+      "name": "moto_04",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/moto_04_silhouette.svg",
+      "name": "moto_04",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_01_pixel.svg",
+      "name": "carro_01",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_01_flat.svg",
+      "name": "carro_01",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_01_silhouette.svg",
+      "name": "carro_01",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_02_pixel.svg",
+      "name": "carro_02",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_02_flat.svg",
+      "name": "carro_02",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_02_silhouette.svg",
+      "name": "carro_02",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_03_pixel.svg",
+      "name": "carro_03",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_03_flat.svg",
+      "name": "carro_03",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_03_silhouette.svg",
+      "name": "carro_03",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_04_pixel.svg",
+      "name": "carro_04",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_04_flat.svg",
+      "name": "carro_04",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_04_silhouette.svg",
+      "name": "carro_04",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_05_pixel.svg",
+      "name": "carro_05",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_05_flat.svg",
+      "name": "carro_05",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/carro_05_silhouette.svg",
+      "name": "carro_05",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/avion_01_pixel.svg",
+      "name": "avion_01",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/avion_01_flat.svg",
+      "name": "avion_01",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/avion_01_silhouette.svg",
+      "name": "avion_01",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/avion_02_pixel.svg",
+      "name": "avion_02",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/avion_02_flat.svg",
+      "name": "avion_02",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/avion_02_silhouette.svg",
+      "name": "avion_02",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/avion_03_pixel.svg",
+      "name": "avion_03",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/avion_03_flat.svg",
+      "name": "avion_03",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/avion_03_silhouette.svg",
+      "name": "avion_03",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/nave_01_pixel.svg",
+      "name": "nave_01",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/nave_01_flat.svg",
+      "name": "nave_01",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/nave_01_silhouette.svg",
+      "name": "nave_01",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/nave_02_pixel.svg",
+      "name": "nave_02",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/nave_02_flat.svg",
+      "name": "nave_02",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/nave_02_silhouette.svg",
+      "name": "nave_02",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/nave_03_pixel.svg",
+      "name": "nave_03",
+      "category": "enemigo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/nave_03_flat.svg",
+      "name": "nave_03",
+      "category": "enemigo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/enemigos/nave_03_silhouette.svg",
+      "name": "nave_03",
+      "category": "enemigo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/astronauta_pixel.svg",
+      "name": "astronauta",
+      "category": "héroe",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/astronauta_flat.svg",
+      "name": "astronauta",
+      "category": "héroe",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/astronauta_silhouette.svg",
+      "name": "astronauta",
+      "category": "héroe",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/soldado_pixel.svg",
+      "name": "soldado",
+      "category": "héroe",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/soldado_flat.svg",
+      "name": "soldado",
+      "category": "héroe",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/soldado_silhouette.svg",
+      "name": "soldado",
+      "category": "héroe",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/general_pixel.svg",
+      "name": "general",
+      "category": "héroe",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/general_flat.svg",
+      "name": "general",
+      "category": "héroe",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/general_silhouette.svg",
+      "name": "general",
+      "category": "héroe",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/civil_pixel.svg",
+      "name": "civil",
+      "category": "héroe",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/civil_flat.svg",
+      "name": "civil",
+      "category": "héroe",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "sprites/heroes/civil_silhouette.svg",
+      "name": "civil",
+      "category": "héroe",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/escenarios/casa_pixel.svg",
+      "name": "casa",
+      "category": "escenario",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/escenarios/casa_flat.svg",
+      "name": "casa",
+      "category": "escenario",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/escenarios/casa_silhouette.svg",
+      "name": "casa",
+      "category": "escenario",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/escenarios/casa_destruida_pixel.svg",
+      "name": "casa_destruida",
+      "category": "escenario",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/escenarios/casa_destruida_flat.svg",
+      "name": "casa_destruida",
+      "category": "escenario",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/escenarios/casa_destruida_silhouette.svg",
+      "name": "casa_destruida",
+      "category": "escenario",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/escenarios/casa_fuego_pixel.svg",
+      "name": "casa_fuego",
+      "category": "escenario",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/escenarios/casa_fuego_flat.svg",
+      "name": "casa_fuego",
+      "category": "escenario",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/escenarios/casa_fuego_silhouette.svg",
+      "name": "casa_fuego",
+      "category": "escenario",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/obstaculos/piedra_pixel.svg",
+      "name": "piedra",
+      "category": "obstaculo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/obstaculos/piedra_flat.svg",
+      "name": "piedra",
+      "category": "obstaculo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/obstaculos/piedra_silhouette.svg",
+      "name": "piedra",
+      "category": "obstaculo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/obstaculos/barril_pixel.svg",
+      "name": "barril",
+      "category": "obstaculo",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/obstaculos/barril_flat.svg",
+      "name": "barril",
+      "category": "obstaculo",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "mundos/obstaculos/barril_silhouette.svg",
+      "name": "barril",
+      "category": "obstaculo",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "iconos/powerups/vida_pixel.svg",
+      "name": "vida",
+      "category": "powerup",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "iconos/powerups/vida_flat.svg",
+      "name": "vida",
+      "category": "powerup",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "iconos/powerups/vida_silhouette.svg",
+      "name": "vida",
+      "category": "powerup",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "iconos/powerups/escudo_pixel.svg",
+      "name": "escudo",
+      "category": "powerup",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "iconos/powerups/escudo_flat.svg",
+      "name": "escudo",
+      "category": "powerup",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "iconos/powerups/escudo_silhouette.svg",
+      "name": "escudo",
+      "category": "powerup",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "iconos/powerups/municion_pixel.svg",
+      "name": "municion",
+      "category": "powerup",
+      "styles": [
+        "pixel"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "iconos/powerups/municion_flat.svg",
+      "name": "municion",
+      "category": "powerup",
+      "styles": [
+        "flat"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    },
+    {
+      "path": "iconos/powerups/municion_silhouette.svg",
+      "name": "municion",
+      "category": "powerup",
+      "styles": [
+        "silhouette"
+      ],
+      "license": "Licencia actual del repositorio (uso libre)"
+    }
+  ]
+}
