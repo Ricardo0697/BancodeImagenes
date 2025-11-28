@@ -1,20 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <!-- moto 03 - flat style -->
-  <!-- Shadow -->
-  <ellipse cx="64" cy="112" rx="44" ry="6" fill="#00000033"/>
-  <!-- Wheels -->
-  <circle cx="28" cy="92" r="18" fill="#222"/>
-  <circle cx="100" cy="92" r="18" fill="#222"/>
-  <circle cx="28" cy="92" r="10" fill="#666"/>
-  <circle cx="100" cy="92" r="10" fill="#666"/>
-  <!-- Frame -->
-  <path d="M28 92 Q50 60 72 60 L100 92" stroke="#c41e3a" stroke-width="8" fill="none"/>
-  <!-- Body -->
-  <ellipse cx="60" cy="68" rx="20" ry="14" fill="#c41e3a"/>
-  <!-- Seat -->
-  <ellipse cx="50" cy="58" rx="14" ry="8" fill="#222"/>
-  <!-- Handlebars -->
-  <path d="M76 52 L88 42 M76 52 L88 62" stroke="#888" stroke-width="4" fill="none"/>
-  <!-- Headlight -->
-  <circle cx="100" cy="72" r="6" fill="#ffff00"/>
+  <circle cx="28" cy="85" r="20" fill="#212121"/>
+  <circle cx="100" cy="85" r="20" fill="#212121"/>
+  <path d="M35,60 L95,60 L100,75 L90,85 L38,85 L28,75 Z" fill="#f44336"/>
+  <rect x="50" y="40" width="20" height="25" rx="3" fill="#424242"/>
+  <circle cx="28" cy="85" r="8" fill="#bdbdbd"/>
+  <circle cx="100" cy="85" r="8" fill="#bdbdbd"/>
 </svg>

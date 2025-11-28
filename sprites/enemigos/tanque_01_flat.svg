@@ -1,19 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <!-- tanque 01 - flat style -->
-  <!-- Shadow -->
-  <ellipse cx="64" cy="110" rx="50" ry="8" fill="#00000033"/>
-  <!-- Tracks -->
-  <rect x="16" y="76" width="96" height="28" rx="12" fill="#333"/>
-  <circle cx="28" cy="90" r="10" fill="#555"/>
-  <circle cx="64" cy="90" r="10" fill="#555"/>
-  <circle cx="100" cy="90" r="10" fill="#555"/>
-  <!-- Body -->
-  <rect x="24" y="48" width="80" height="32" rx="4" fill="#556b2f"/>
-  <!-- Turret -->
-  <ellipse cx="64" cy="48" rx="26" ry="16" fill="#4a5c28"/>
-  <!-- Cannon -->
-  <rect x="84" y="42" width="36" height="10" rx="3" fill="#3a4a18"/>
-  <!-- Details -->
-  <rect x="32" y="56" width="8" height="4" fill="#333"/>
-  <rect x="44" y="56" width="8" height="4" fill="#333"/>
+  <rect x="15" y="70" width="98" height="30" rx="5" fill="#455a64"/>
+  <rect x="25" y="45" width="70" height="35" rx="8" fill="#607d8b"/>
+  <rect x="45" y="30" width="35" height="25" rx="5" fill="#37474f"/>
+  <rect x="75" y="38" width="45" height="12" rx="3" fill="#37474f"/>
+  <circle cx="35" cy="85" r="12" fill="#90a4ae"/>
+  <circle cx="65" cy="85" r="12" fill="#90a4ae"/>
+  <circle cx="95" cy="85" r="12" fill="#90a4ae"/>
 </svg>

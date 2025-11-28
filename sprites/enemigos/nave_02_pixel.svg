@@ -1,18 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" shape-rendering="crispEdges">
-  <!-- nave 02 - pixel art style -->
-  <g>
-  <!-- Body -->
-  <rect x="40" y="32" width="48" height="64" fill="#4a4a6a"/>
-  <!-- Nose -->
-  <rect x="48" y="16" width="32" height="24" fill="#6a6a8a"/>
-  <rect x="56" y="8" width="16" height="16" fill="#8a8aaa"/>
-  <!-- Wings -->
-  <rect x="16" y="64" width="32" height="24" fill="#3a3a5a"/>
-  <rect x="80" y="64" width="32" height="24" fill="#3a3a5a"/>
-  <!-- Thrusters -->
-  <rect x="48" y="96" width="12" height="16" fill="#f60"/>
-  <rect x="68" y="96" width="12" height="16" fill="#f60"/>
-  <!-- Cockpit -->
-  <rect x="52" y="40" width="24" height="16" fill="#00bfff"/>
-  </g>
+  <rect x="32" y="40" width="8" height="8" fill="#7e57c2"/>
+  <rect x="40" y="40" width="8" height="8" fill="#7e57c2"/>
+  <rect x="48" y="40" width="8" height="8" fill="#7e57c2"/>
+  <rect x="56" y="40" width="8" height="8" fill="#7e57c2"/>
+  <rect x="64" y="40" width="8" height="8" fill="#7e57c2"/>
+  <rect x="72" y="40" width="8" height="8" fill="#7e57c2"/>
+  <rect x="80" y="40" width="8" height="8" fill="#7e57c2"/>
+  <rect x="88" y="40" width="8" height="8" fill="#7e57c2"/>
+  <rect x="32" y="48" width="8" height="8" fill="#7e57c2"/>
+  <rect x="40" y="48" width="8" height="8" fill="#7e57c2"/>
+  <rect x="48" y="48" width="8" height="8" fill="#7e57c2"/>
+  <rect x="56" y="48" width="8" height="8" fill="#29b6f6"/>
+  <rect x="64" y="48" width="8" height="8" fill="#29b6f6"/>
+  <rect x="72" y="48" width="8" height="8" fill="#7e57c2"/>
+  <rect x="80" y="48" width="8" height="8" fill="#7e57c2"/>
+  <rect x="88" y="48" width="8" height="8" fill="#7e57c2"/>
+  <rect x="32" y="56" width="8" height="8" fill="#7e57c2"/>
+  <rect x="40" y="56" width="8" height="8" fill="#7e57c2"/>
+  <rect x="48" y="56" width="8" height="8" fill="#7e57c2"/>
+  <rect x="56" y="56" width="8" height="8" fill="#29b6f6"/>
+  <rect x="64" y="56" width="8" height="8" fill="#29b6f6"/>
+  <rect x="72" y="56" width="8" height="8" fill="#7e57c2"/>
+  <rect x="80" y="56" width="8" height="8" fill="#7e57c2"/>
+  <rect x="88" y="56" width="8" height="8" fill="#7e57c2"/>
+  <rect x="32" y="64" width="8" height="8" fill="#7e57c2"/>
+  <rect x="40" y="64" width="8" height="8" fill="#7e57c2"/>
+  <rect x="48" y="64" width="8" height="8" fill="#7e57c2"/>
+  <rect x="56" y="64" width="8" height="8" fill="#7e57c2"/>
+  <rect x="64" y="64" width="8" height="8" fill="#7e57c2"/>
+  <rect x="72" y="64" width="8" height="8" fill="#7e57c2"/>
+  <rect x="80" y="64" width="8" height="8" fill="#7e57c2"/>
+  <rect x="88" y="64" width="8" height="8" fill="#7e57c2"/>
+  <rect x="32" y="72" width="8" height="8" fill="#7e57c2"/>
+  <rect x="40" y="72" width="8" height="8" fill="#7e57c2"/>
+  <rect x="48" y="72" width="8" height="8" fill="#7e57c2"/>
+  <rect x="56" y="72" width="8" height="8" fill="#7e57c2"/>
+  <rect x="64" y="72" width="8" height="8" fill="#7e57c2"/>
+  <rect x="72" y="72" width="8" height="8" fill="#7e57c2"/>
+  <rect x="80" y="72" width="8" height="8" fill="#7e57c2"/>
+  <rect x="88" y="72" width="8" height="8" fill="#7e57c2"/>
+  <rect x="32" y="80" width="8" height="8" fill="#7e57c2"/>
+  <rect x="40" y="80" width="8" height="8" fill="#ff7043"/>
+  <rect x="48" y="80" width="8" height="8" fill="#ff7043"/>
+  <rect x="56" y="80" width="8" height="8" fill="#7e57c2"/>
+  <rect x="64" y="80" width="8" height="8" fill="#7e57c2"/>
+  <rect x="72" y="80" width="8" height="8" fill="#ff7043"/>
+  <rect x="80" y="80" width="8" height="8" fill="#ff7043"/>
+  <rect x="88" y="80" width="8" height="8" fill="#7e57c2"/>
 </svg>
