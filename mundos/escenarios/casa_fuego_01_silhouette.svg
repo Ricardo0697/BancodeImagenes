@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- casa_fuego 01 - silhouette style -->
+  <g fill="#000000"><path d="M16 52 L64 12 L112 52 Z"/>
+  <rect x="24" y="52" width="80" height="60"/>
+  <ellipse cx="80" cy="24" rx="16" ry="28"/>
+  <ellipse cx="40" cy="36" rx="12" ry="20"/>
+  <ellipse cx="64" cy="8" rx="16" ry="10"/>
+  </g>
+</svg>

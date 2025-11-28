@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- soldado 01 - flat style -->
+  <!-- Shadow -->
+  <ellipse cx="64" cy="118" rx="26" ry="6" fill="#00000033"/>
+  <!-- Helmet -->
+  <ellipse cx="64" cy="28" rx="24" ry="16" fill="#556b2f"/>
+  <!-- Face -->
+  <ellipse cx="64" cy="44" rx="16" ry="14" fill="#d2a679"/>
+  <!-- Eyes -->
+  <circle cx="58" cy="42" r="3" fill="#333"/>
+  <circle cx="70" cy="42" r="3" fill="#333"/>
+  <!-- Body -->
+  <rect x="44" y="56" width="40" height="40" rx="4" fill="#556b2f"/>
+  <!-- Arms -->
+  <ellipse cx="36" cy="72" rx="8" ry="18" fill="#556b2f"/>
+  <ellipse cx="92" cy="72" rx="8" ry="18" fill="#556b2f"/>
+  <!-- Legs -->
+  <ellipse cx="52" cy="106" rx="8" ry="14" fill="#333"/>
+  <ellipse cx="76" cy="106" rx="8" ry="14" fill="#333"/>
+  <!-- Weapon -->
+  <rect x="96" y="64" width="24" height="6" rx="2" fill="#444"/>
+</svg>

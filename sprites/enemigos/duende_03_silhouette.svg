@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- duende 03 - silhouette style -->
+  <g fill="#000000"><ellipse cx="64" cy="76" rx="20" ry="28"/>
+  <ellipse cx="64" cy="40" rx="22" ry="20"/>
+  <ellipse cx="32" cy="36" rx="12" ry="8"/>
+  <ellipse cx="96" cy="36" rx="12" ry="8"/>
+  <ellipse cx="52" cy="106" rx="8" ry="12"/>
+  <ellipse cx="76" cy="106" rx="8" ry="12"/>
+  </g>
+</svg>

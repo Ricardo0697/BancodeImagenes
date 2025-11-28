@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- ogro 01 - flat style -->
+  <!-- Shadow -->
+  <ellipse cx="64" cy="118" rx="36" ry="8" fill="#00000033"/>
+  <!-- Body -->
+  <ellipse cx="64" cy="72" rx="32" ry="36" fill="#4a7c23"/>
+  <!-- Head -->
+  <ellipse cx="64" cy="36" rx="28" ry="24" fill="#5a9c2d"/>
+  <!-- Eyes -->
+  <ellipse cx="52" cy="32" rx="8" ry="6" fill="#fff"/>
+  <ellipse cx="76" cy="32" rx="8" ry="6" fill="#fff"/>
+  <circle cx="54" cy="33" r="3" fill="#333"/>
+  <circle cx="78" cy="33" r="3" fill="#333"/>
+  <!-- Mouth -->
+  <path d="M48 48 Q64 58 80 48" stroke="#333" stroke-width="3" fill="none"/>
+  <!-- Arms -->
+  <ellipse cx="28" cy="68" rx="12" ry="20" fill="#4a7c23"/>
+  <ellipse cx="100" cy="68" rx="12" ry="20" fill="#4a7c23"/>
+  <!-- Legs -->
+  <ellipse cx="48" cy="108" rx="10" ry="14" fill="#3a6c13"/>
+  <ellipse cx="80" cy="108" rx="10" ry="14" fill="#3a6c13"/>
+</svg>

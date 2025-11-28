@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- general 01 - flat style -->
+  <!-- Shadow -->
+  <ellipse cx="64" cy="118" rx="28" ry="6" fill="#00000033"/>
+  <!-- Hat -->
+  <rect x="36" y="12" width="56" height="12" rx="2" fill="#333"/>
+  <ellipse cx="64" cy="24" rx="24" ry="10" fill="#4a5c28"/>
+  <!-- Face -->
+  <ellipse cx="64" cy="44" rx="18" ry="16" fill="#d2a679"/>
+  <!-- Eyes -->
+  <circle cx="56" cy="42" r="3" fill="#333"/>
+  <circle cx="72" cy="42" r="3" fill="#333"/>
+  <!-- Body -->
+  <rect x="40" y="58" width="48" height="44" rx="4" fill="#4a5c28"/>
+  <!-- Medals -->
+  <circle cx="52" cy="72" r="4" fill="#ffd700"/>
+  <circle cx="64" cy="72" r="4" fill="#c0c0c0"/>
+  <circle cx="76" cy="72" r="4" fill="#cd7f32"/>
+  <!-- Legs -->
+  <ellipse cx="52" cy="110" rx="10" ry="12" fill="#333"/>
+  <ellipse cx="76" cy="110" rx="10" ry="12" fill="#333"/>
+</svg>

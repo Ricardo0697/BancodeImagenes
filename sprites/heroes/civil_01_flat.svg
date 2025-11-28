@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- civil 01 - flat style -->
+  <!-- Shadow -->
+  <ellipse cx="64" cy="118" rx="24" ry="6" fill="#00000033"/>
+  <!-- Hair -->
+  <ellipse cx="64" cy="28" rx="20" ry="14" fill="#8b4513"/>
+  <!-- Face -->
+  <ellipse cx="64" cy="40" rx="16" ry="14" fill="#d2a679"/>
+  <!-- Eyes -->
+  <circle cx="58" cy="38" r="3" fill="#333"/>
+  <circle cx="70" cy="38" r="3" fill="#333"/>
+  <!-- Smile -->
+  <path d="M56 48 Q64 54 72 48" stroke="#333" stroke-width="2" fill="none"/>
+  <!-- Body -->
+  <rect x="44" y="52" width="40" height="44" rx="6" fill="#1e90ff"/>
+  <!-- Arms -->
+  <ellipse cx="36" cy="68" rx="8" ry="16" fill="#d2a679"/>
+  <ellipse cx="92" cy="68" rx="8" ry="16" fill="#d2a679"/>
+  <!-- Legs -->
+  <ellipse cx="52" cy="106" rx="8" ry="14" fill="#333"/>
+  <ellipse cx="76" cy="106" rx="8" ry="14" fill="#333"/>
+</svg>

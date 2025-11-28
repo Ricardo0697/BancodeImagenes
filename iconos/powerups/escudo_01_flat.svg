@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- escudo 01 - flat style -->
+  <!-- Shadow -->
+  <ellipse cx="64" cy="116" rx="28" ry="6" fill="#00000033"/>
+  <!-- Shield -->
+  <path d="M32 20 L32 72 Q32 104 64 116 Q96 104 96 72 L96 20 Z" fill="#1e90ff"/>
+  <!-- Border -->
+  <path d="M32 20 L32 72 Q32 104 64 116 Q96 104 96 72 L96 20 Z" stroke="#ffd700" stroke-width="6" fill="none"/>
+  <!-- Star -->
+  <path d="M64 36 L68 52 L84 52 L72 64 L76 80 L64 72 L52 80 L56 64 L44 52 L60 52 Z" fill="#ffd700"/>
+</svg>
