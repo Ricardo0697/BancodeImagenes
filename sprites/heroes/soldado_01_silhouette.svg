@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- soldado 01 - silhouette style -->
+  <g fill="#000000"><ellipse cx="64" cy="28" rx="24" ry="16"/>
+  <ellipse cx="64" cy="44" rx="16" ry="14"/>
+  <rect x="44" y="56" width="40" height="40" rx="4"/>
+  <ellipse cx="36" cy="72" rx="8" ry="18"/>
+  <ellipse cx="92" cy="72" rx="8" ry="18"/>
+  <ellipse cx="52" cy="106" rx="8" ry="14"/>
+  <ellipse cx="76" cy="106" rx="8" ry="14"/>
+  <rect x="96" y="64" width="24" height="6" rx="2"/>
+  </g>
+</svg>

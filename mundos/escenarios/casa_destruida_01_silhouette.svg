@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- casa_destruida 01 - silhouette style -->
+  <g fill="#000000"><path d="M16 52 L48 24 L56 32"/>
+  <rect x="24" y="52" width="80" height="60"/>
+  <path d="M56 52 L72 80 L88 64 L104 112"/>
+  <ellipse cx="96" cy="100" rx="16" ry="12"/>
+  <ellipse cx="20" cy="108" rx="10" ry="8"/>
+  </g>
+</svg>

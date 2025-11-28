@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- barril 01 - flat style -->
+  <!-- Shadow -->
+  <ellipse cx="64" cy="112" rx="28" ry="6" fill="#00000033"/>
+  <!-- Body -->
+  <ellipse cx="64" cy="64" rx="28" ry="44" fill="#8b4513"/>
+  <!-- Top -->
+  <ellipse cx="64" cy="24" rx="20" ry="8" fill="#a0522d"/>
+  <!-- Bands -->
+  <ellipse cx="64" cy="36" rx="26" ry="4" fill="#333"/>
+  <ellipse cx="64" cy="92" rx="26" ry="4" fill="#333"/>
+  <!-- Highlight -->
+  <ellipse cx="52" cy="64" rx="6" ry="24" fill="#a0522d"/>
+</svg>

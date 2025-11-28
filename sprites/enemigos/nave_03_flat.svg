@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- nave 03 - flat style -->
+  <!-- Flame -->
+  <ellipse cx="64" cy="116" rx="12" ry="16" fill="#ff6600"/>
+  <ellipse cx="64" cy="112" rx="8" ry="10" fill="#ffcc00"/>
+  <!-- Body -->
+  <path d="M40 80 L64 16 L88 80 Z" fill="#4a4a6a"/>
+  <ellipse cx="64" cy="72" rx="24" ry="20" fill="#5a5a7a"/>
+  <!-- Wings -->
+  <path d="M40 72 L16 96 L40 88" fill="#3a3a5a"/>
+  <path d="M88 72 L112 96 L88 88" fill="#3a3a5a"/>
+  <!-- Cockpit -->
+  <ellipse cx="64" cy="48" rx="12" ry="16" fill="#00bfff"/>
+  <!-- Details -->
+  <circle cx="48" cy="76" r="4" fill="#ff0"/>
+  <circle cx="80" cy="76" r="4" fill="#ff0"/>
+</svg>

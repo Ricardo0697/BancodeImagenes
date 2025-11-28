@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- nave 02 - silhouette style -->
+  <g fill="#000000"><path d="M40 80 L64 16 L88 80 Z"/>
+  <ellipse cx="64" cy="72" rx="24" ry="20"/>
+  <path d="M40 72 L16 96 L40 88"/>
+  <path d="M88 72 L112 96 L88 88"/>
+  <ellipse cx="64" cy="108" rx="12" ry="16"/>
+  </g>
+</svg>

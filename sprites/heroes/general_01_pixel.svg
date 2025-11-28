@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" shape-rendering="crispEdges">
+  <!-- general 01 - pixel art style -->
+  <g>
+  <!-- Hat -->
+  <rect x="32" y="8" width="64" height="16" fill="#333"/>
+  <rect x="40" y="16" width="48" height="16" fill="#4a5c28"/>
+  <!-- Face -->
+  <rect x="48" y="32" width="32" height="24" fill="#d2a679"/>
+  <rect x="52" y="36" width="8" height="8" fill="#333"/>
+  <rect x="68" y="36" width="8" height="8" fill="#333"/>
+  <!-- Body -->
+  <rect x="36" y="56" width="56" height="44" fill="#4a5c28"/>
+  <!-- Medals -->
+  <rect x="44" y="64" width="8" height="8" fill="#ffd700"/>
+  <rect x="56" y="64" width="8" height="8" fill="#c0c0c0"/>
+  <rect x="68" y="64" width="8" height="8" fill="#cd7f32"/>
+  <!-- Legs -->
+  <rect x="44" y="100" width="16" height="16" fill="#333"/>
+  <rect x="68" y="100" width="16" height="16" fill="#333"/>
+  </g>
+</svg>

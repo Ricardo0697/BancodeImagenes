@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" shape-rendering="crispEdges">
+  <!-- avion 02 - pixel art style -->
+  <g>
+  <!-- Fuselage -->
+  <rect x="24" y="48" width="80" height="24" fill="#c0c0c0"/>
+  <!-- Nose -->
+  <rect x="104" y="52" width="16" height="16" fill="#888"/>
+  <!-- Tail -->
+  <rect x="8" y="32" width="24" height="40" fill="#c0c0c0"/>
+  <rect x="8" y="16" width="8" height="32" fill="#1e90ff"/>
+  <!-- Wings -->
+  <rect x="40" y="40" width="48" height="8" fill="#1e90ff"/>
+  <rect x="40" y="72" width="48" height="8" fill="#1e90ff"/>
+  <!-- Windows -->
+  <rect x="48" y="52" width="8" height="8" fill="#87ceeb"/>
+  <rect x="64" y="52" width="8" height="8" fill="#87ceeb"/>
+  <rect x="80" y="52" width="8" height="8" fill="#87ceeb"/>
+  </g>
+</svg>

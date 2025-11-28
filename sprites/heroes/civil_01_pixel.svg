@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" shape-rendering="crispEdges">
+  <!-- civil 01 - pixel art style -->
+  <g>
+  <!-- Hair -->
+  <rect x="44" y="16" width="40" height="16" fill="#8b4513"/>
+  <!-- Face -->
+  <rect x="48" y="28" width="32" height="28" fill="#d2a679"/>
+  <rect x="52" y="36" width="8" height="8" fill="#333"/>
+  <rect x="68" y="36" width="8" height="8" fill="#333"/>
+  <!-- Body -->
+  <rect x="40" y="56" width="48" height="40" fill="#1e90ff"/>
+  <!-- Arms -->
+  <rect x="24" y="56" width="16" height="28" fill="#d2a679"/>
+  <rect x="88" y="56" width="16" height="28" fill="#d2a679"/>
+  <!-- Legs -->
+  <rect x="44" y="96" width="16" height="20" fill="#333"/>
+  <rect x="68" y="96" width="16" height="20" fill="#333"/>
+  </g>
+</svg>

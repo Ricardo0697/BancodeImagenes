@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" shape-rendering="crispEdges">
+  <!-- moto 04 - pixel art style -->
+  <g>
+  <!-- Wheels -->
+  <rect x="16" y="72" width="32" height="32" fill="#333"/>
+  <rect x="80" y="72" width="32" height="32" fill="#333"/>
+  <rect x="24" y="80" width="16" height="16" fill="#666"/>
+  <rect x="88" y="80" width="16" height="16" fill="#666"/>
+  <!-- Body -->
+  <rect x="40" y="56" width="48" height="24" fill="#c41e3a"/>
+  <!-- Seat -->
+  <rect x="48" y="40" width="24" height="16" fill="#222"/>
+  <!-- Handlebars -->
+  <rect x="72" y="40" width="24" height="8" fill="#888"/>
+  <!-- Headlight -->
+  <rect x="96" y="56" width="8" height="8" fill="#ff0"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" shape-rendering="crispEdges">
+  <!-- tanque 01 - pixel art style -->
+  <g>
+  <!-- Tracks -->
+  <rect x="16" y="80" width="96" height="24" fill="#333"/>
+  <rect x="16" y="80" width="24" height="24" fill="#444" rx="4"/>
+  <rect x="88" y="80" width="24" height="24" fill="#444" rx="4"/>
+  <!-- Body -->
+  <rect x="24" y="48" width="80" height="32" fill="#556b2f"/>
+  <!-- Turret -->
+  <rect x="40" y="32" width="48" height="24" fill="#4a5c28"/>
+  <!-- Cannon -->
+  <rect x="88" y="36" width="32" height="12" fill="#3a4a18"/>
+  <!-- Details -->
+  <rect x="32" y="56" width="8" height="8" fill="#333"/>
+  <rect x="48" y="56" width="8" height="8" fill="#333"/>
+  </g>
+</svg>

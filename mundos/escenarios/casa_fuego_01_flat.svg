@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- casa_fuego 01 - flat style -->
+  <!-- Shadow -->
+  <ellipse cx="64" cy="118" rx="48" ry="8" fill="#00000033"/>
+  <!-- Roof -->
+  <path d="M16 52 L64 12 L112 52 Z" fill="#a0522d"/>
+  <!-- Walls -->
+  <rect x="24" y="52" width="80" height="60" fill="#f5deb3"/>
+  <!-- Door -->
+  <rect x="52" y="76" width="24" height="36" rx="12 12 0 0" fill="#8b4513"/>
+  <!-- Fire -->
+  <ellipse cx="80" cy="24" rx="16" ry="28" fill="#ff4500"/>
+  <ellipse cx="80" cy="20" rx="10" ry="18" fill="#ff6347"/>
+  <ellipse cx="80" cy="16" rx="6" ry="12" fill="#ffd700"/>
+  <ellipse cx="40" cy="36" rx="12" ry="20" fill="#ff4500"/>
+  <ellipse cx="40" cy="32" rx="8" ry="14" fill="#ff6347"/>
+  <!-- Smoke -->
+  <ellipse cx="64" cy="8" rx="16" ry="10" fill="#55555588"/>
+  <ellipse cx="96" cy="16" rx="12" ry="8" fill="#66666666"/>
+</svg>

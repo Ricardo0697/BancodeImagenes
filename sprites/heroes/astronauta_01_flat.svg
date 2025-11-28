@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- astronauta 01 - flat style -->
+  <!-- Shadow -->
+  <ellipse cx="64" cy="118" rx="28" ry="6" fill="#00000033"/>
+  <!-- Helmet -->
+  <circle cx="64" cy="40" r="26" fill="#fff"/>
+  <ellipse cx="64" cy="42" rx="18" ry="16" fill="#00bfff"/>
+  <!-- Body -->
+  <ellipse cx="64" cy="80" rx="24" ry="28" fill="#eee"/>
+  <!-- Arms -->
+  <ellipse cx="32" cy="76" rx="10" ry="20" fill="#ddd"/>
+  <ellipse cx="96" cy="76" rx="10" ry="20" fill="#ddd"/>
+  <!-- Legs -->
+  <ellipse cx="52" cy="110" rx="10" ry="14" fill="#ccc"/>
+  <ellipse cx="76" cy="110" rx="10" ry="14" fill="#ccc"/>
+  <!-- Backpack -->
+  <rect x="40" y="60" width="8" height="32" rx="2" fill="#666"/>
+  <!-- Badge -->
+  <circle cx="64" cy="72" r="6" fill="#ff0000"/>
+</svg>
