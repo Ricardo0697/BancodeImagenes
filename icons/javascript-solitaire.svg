@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="solitaireBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e5631"/>
+      <stop offset="100%" style="stop-color:#0d2818"/>
+    </linearGradient>
+    <linearGradient id="cardFace" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#f0f0f0"/>
+    </linearGradient>
+    <linearGradient id="cardBack" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a"/>
+      <stop offset="100%" style="stop-color:#1e40af"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="200" height="200" rx="15" fill="url(#solitaireBg)"/>
+  <!-- Card Stack 1 (back) -->
+  <rect x="15" y="30" width="45" height="65" rx="5" fill="url(#cardBack)" stroke="#0d1f4d" stroke-width="1"/>
+  <rect x="20" y="35" width="35" height="55" rx="3" fill="none" stroke="#fff" stroke-width="1" opacity="0.3"/>
+  <!-- Card Stack 2 -->
+  <g>
+    <rect x="65" y="25" width="45" height="65" rx="5" fill="url(#cardBack)" stroke="#0d1f4d" stroke-width="1"/>
+    <rect x="68" y="30" width="45" height="65" rx="5" fill="url(#cardBack)" stroke="#0d1f4d" stroke-width="1"/>
+    <rect x="71" y="35" width="45" height="65" rx="5" fill="url(#cardFace)" stroke="#ccc" stroke-width="1"/>
+    <!-- Ace of Spades -->
+    <text x="76" y="50" font-family="Georgia, serif" font-size="14" fill="#000" font-weight="bold">A</text>
+    <path d="M93 65 L88 75 L93 72 L98 75 Z" fill="#000"/>
+    <ellipse cx="93" cy="68" rx="6" ry="5" fill="#000"/>
+  </g>
+  <!-- Card Stack 3 -->
+  <g>
+    <rect x="125" y="25" width="45" height="65" rx="5" fill="url(#cardBack)" stroke="#0d1f4d" stroke-width="1"/>
+    <rect x="128" y="30" width="45" height="65" rx="5" fill="url(#cardFace)" stroke="#ccc" stroke-width="1"/>
+    <!-- King of Hearts -->
+    <text x="133" y="45" font-family="Georgia, serif" font-size="14" fill="#e74c3c" font-weight="bold">K</text>
+    <path d="M150 55 L146 62 L150 60 L154 62 Z" fill="#e74c3c"/>
+    <circle cx="150" cy="58" r="5" fill="#e74c3c"/>
+  </g>
+  <!-- Bottom Cards -->
+  <rect x="20" y="115" width="45" height="65" rx="5" fill="url(#cardFace)" stroke="#ccc" stroke-width="1"/>
+  <text x="25" y="130" font-family="Georgia, serif" font-size="14" fill="#e74c3c" font-weight="bold">Q</text>
+  <path d="M42 145 C37 140, 37 150, 42 155 C47 150, 47 140, 42 145" fill="#e74c3c"/>
+  <rect x="70" y="115" width="45" height="65" rx="5" fill="url(#cardFace)" stroke="#ccc" stroke-width="1"/>
+  <text x="75" y="130" font-family="Georgia, serif" font-size="14" fill="#000" font-weight="bold">J</text>
+  <path d="M92 140 L87 150 L92 147 L97 150 Z" fill="#000"/>
+  <ellipse cx="92" cy="143" rx="6" ry="5" fill="#000"/>
+  <rect x="120" y="115" width="45" height="65" rx="5" fill="url(#cardFace)" stroke="#ccc" stroke-width="1"/>
+  <text x="125" y="130" font-family="Georgia, serif" font-size="14" fill="#e74c3c" font-weight="bold">10</text>
+  <path d="M142 145 L138 152 L146 152 Z" fill="#e74c3c"/>
+  <circle cx="142" cy="150" r="4" fill="#e74c3c"/>
+</svg>

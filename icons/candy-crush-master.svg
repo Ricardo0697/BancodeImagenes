@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bgCandy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b9d"/>
+      <stop offset="100%" style="stop-color:#c44569"/>
+    </linearGradient>
+    <linearGradient id="redCandy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff4757"/>
+      <stop offset="100%" style="stop-color:#c0392b"/>
+    </linearGradient>
+    <linearGradient id="blueCandy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db"/>
+      <stop offset="100%" style="stop-color:#2980b9"/>
+    </linearGradient>
+    <linearGradient id="greenCandy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ecc71"/>
+      <stop offset="100%" style="stop-color:#27ae60"/>
+    </linearGradient>
+    <linearGradient id="yellowCandy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f1c40f"/>
+      <stop offset="100%" style="stop-color:#f39c12"/>
+    </linearGradient>
+    <linearGradient id="purpleCandy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b59b6"/>
+      <stop offset="100%" style="stop-color:#8e44ad"/>
+    </linearGradient>
+    <linearGradient id="orangeCandy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e67e22"/>
+      <stop offset="100%" style="stop-color:#d35400"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="200" height="200" rx="15" fill="url(#bgCandy)"/>
+  <!-- Candies Grid -->
+  <!-- Row 1 -->
+  <circle cx="40" cy="40" r="22" fill="url(#redCandy)"/>
+  <ellipse cx="40" cy="35" rx="8" ry="4" fill="rgba(255,255,255,0.4)"/>
+  <circle cx="100" cy="40" r="22" fill="url(#blueCandy)"/>
+  <ellipse cx="100" cy="35" rx="8" ry="4" fill="rgba(255,255,255,0.4)"/>
+  <circle cx="160" cy="40" r="22" fill="url(#greenCandy)"/>
+  <ellipse cx="160" cy="35" rx="8" ry="4" fill="rgba(255,255,255,0.4)"/>
+  <!-- Row 2 -->
+  <circle cx="40" cy="100" r="22" fill="url(#yellowCandy)"/>
+  <ellipse cx="40" cy="95" rx="8" ry="4" fill="rgba(255,255,255,0.4)"/>
+  <circle cx="100" cy="100" r="22" fill="url(#purpleCandy)"/>
+  <ellipse cx="100" cy="95" rx="8" ry="4" fill="rgba(255,255,255,0.4)"/>
+  <circle cx="160" cy="100" r="22" fill="url(#orangeCandy)"/>
+  <ellipse cx="160" cy="95" rx="8" ry="4" fill="rgba(255,255,255,0.4)"/>
+  <!-- Row 3 -->
+  <circle cx="40" cy="160" r="22" fill="url(#blueCandy)"/>
+  <ellipse cx="40" cy="155" rx="8" ry="4" fill="rgba(255,255,255,0.4)"/>
+  <circle cx="100" cy="160" r="22" fill="url(#redCandy)"/>
+  <ellipse cx="100" cy="155" rx="8" ry="4" fill="rgba(255,255,255,0.4)"/>
+  <circle cx="160" cy="160" r="22" fill="url(#yellowCandy)"/>
+  <ellipse cx="160" cy="155" rx="8" ry="4" fill="rgba(255,255,255,0.4)"/>
+  <!-- Sparkles -->
+  <polygon points="70,70 73,77 80,77 75,82 77,90 70,85 63,90 65,82 60,77 67,77" fill="#fff" opacity="0.8"/>
+  <polygon points="130,130 132,135 138,135 134,139 135,145 130,141 125,145 126,139 122,135 128,135" fill="#fff" opacity="0.8"/>
+</svg>

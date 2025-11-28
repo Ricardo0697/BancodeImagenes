@@ -1,0 +1,13 @@
+{
+  "name": "svg-icon-generator",
+  "version": "1.0.0",
+  "description": "Generador de iconos SVG estilizados para videojuegos",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js",
+    "preview": "node preview.js"
+  },
+  "keywords": ["svg", "icons", "games", "generator"],
+  "author": "",
+  "license": "MIT"
+}

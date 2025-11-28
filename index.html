@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galería de Iconos SVG para Videojuegos</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+            color: #fff;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #888;
+            margin-bottom: 40px;
+            font-size: 1.1em;
+        }
+        
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 30px;
+            padding: 20px;
+        }
+        
+        .icon-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 20px;
+            padding: 20px;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .icon-card:hover {
+            transform: translateY(-10px);
+            background: rgba(255, 255, 255, 0.1);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+        
+        .icon-card img {
+            width: 100%;
+            max-width: 180px;
+            height: auto;
+            border-radius: 15px;
+            margin-bottom: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+        
+        .icon-card h3 {
+            font-size: 1em;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+        
+        .icon-card p {
+            font-size: 0.85em;
+            color: #888;
+        }
+        
+        .section-title {
+            font-size: 1.8em;
+            margin: 40px 0 20px;
+            padding-left: 20px;
+            border-left: 4px solid #667eea;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 60px;
+            padding: 20px;
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        footer a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎮 Banco de Iconos SVG para Videojuegos</h1>
+        <p class="subtitle">Colección de iconos estilizados para miniaturas y thumbnails de juegos</p>
+        
+        <h2 class="section-title">Juegos de Puzzle</h2>
+        <div class="gallery">
+            <div class="icon-card">
+                <img src="icons/2048-master.svg" alt="2048">
+                <h3>2048 Master</h3>
+                <p>Juego de puzzle numérico</p>
+            </div>
+            <div class="icon-card">
+                <img src="icons/candy-crush-master.svg" alt="Candy Crush">
+                <h3>Candy Crush</h3>
+                <p>Match-3 de dulces</p>
+            </div>
+            <div class="icon-card">
+                <img src="icons/tetris-main.svg" alt="Tetris">
+                <h3>Tetris</h3>
+                <p>Clásico de bloques</p>
+            </div>
+            <div class="icon-card">
+                <img src="icons/memory-game.svg" alt="Memory Game">
+                <h3>Memory Game</h3>
+                <p>Juego de memoria</p>
+            </div>
+        </div>
+        
+        <h2 class="section-title">Juegos de Cartas y Mesa</h2>
+        <div class="gallery">
+            <div class="icon-card">
+                <img src="icons/javascript-solitaire.svg" alt="Solitaire">
+                <h3>Solitaire</h3>
+                <p>Solitario clásico</p>
+            </div>
+            <div class="icon-card">
+                <img src="icons/jeopardy-javascript.svg" alt="Jeopardy">
+                <h3>Jeopardy</h3>
+                <p>Concurso de preguntas</p>
+            </div>
+            <div class="icon-card">
+                <img src="icons/battleships-master.svg" alt="Battleships">
+                <h3>Battleships</h3>
+                <p>Batalla naval</p>
+            </div>
+        </div>
+        
+        <h2 class="section-title">Juegos Arcade Clásicos</h2>
+        <div class="gallery">
+            <div class="icon-card">
+                <img src="icons/pac-man.svg" alt="Pac-Man">
+                <h3>Pac-Man</h3>
+                <p>Clásico arcade</p>
+            </div>
+            <div class="icon-card">
+                <img src="icons/snake-master.svg" alt="Snake">
+                <h3>Snake Master</h3>
+                <p>La serpiente clásica</p>
+            </div>
+            <div class="icon-card">
+                <img src="icons/space-invader.svg" alt="Space Invaders">
+                <h3>Space Invaders</h3>
+                <p>Invasores del espacio</p>
+            </div>
+        </div>
+        
+        <h2 class="section-title">Juegos de Aventura y Plataformas</h2>
+        <div class="gallery">
+            <div class="icon-card">
+                <img src="icons/platform-hero.svg" alt="Platform Hero">
+                <h3>Platform Hero</h3>
+                <p>Héroe de plataformas</p>
+            </div>
+            <div class="icon-card">
+                <img src="icons/adventure-hero.svg" alt="Adventure Hero">
+                <h3>Adventure Hero</h3>
+                <p>Aventura épica</p>
+            </div>
+            <div class="icon-card">
+                <img src="icons/racing-fury.svg" alt="Racing Fury">
+                <h3>Racing Fury</h3>
+                <p>Carreras de alta velocidad</p>
+            </div>
+        </div>
+        
+        <h2 class="section-title">Juegos Musicales y Casuales</h2>
+        <div class="gallery">
+            <div class="icon-card">
+                <img src="icons/javascript-playing-piano.svg" alt="Piano">
+                <h3>Piano</h3>
+                <p>Piano musical</p>
+            </div>
+            <div class="icon-card">
+                <img src="icons/rock-paper-scissors.svg" alt="Rock Paper Scissors">
+                <h3>Rock Paper Scissors</h3>
+                <p>Piedra, papel o tijera</p>
+            </div>
+        </div>
+        
+        <footer>
+            <p>Creado con ❤️ para desarrolladores de juegos</p>
+            <p>Usa el <a href="generator/">generador</a> para crear tus propios iconos</p>
+        </footer>
+    </div>
+</body>
+</html>
