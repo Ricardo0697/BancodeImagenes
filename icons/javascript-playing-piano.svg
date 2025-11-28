@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="pianoBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c3e50"/>
+      <stop offset="100%" style="stop-color:#1a252f"/>
+    </linearGradient>
+    <linearGradient id="whiteKey" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#e0e0e0"/>
+    </linearGradient>
+    <linearGradient id="blackKey" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c2c2c"/>
+      <stop offset="100%" style="stop-color:#1a1a1a"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="200" height="200" rx="15" fill="url(#pianoBg)"/>
+  <!-- Piano Body -->
+  <rect x="10" y="70" width="180" height="120" rx="5" fill="#1a1a1a"/>
+  <rect x="15" y="75" width="170" height="110" rx="3" fill="#2a2a2a"/>
+  <!-- White Keys -->
+  <rect x="20" y="100" width="20" height="80" rx="2" fill="url(#whiteKey)" stroke="#ccc" stroke-width="1"/>
+  <rect x="42" y="100" width="20" height="80" rx="2" fill="url(#whiteKey)" stroke="#ccc" stroke-width="1"/>
+  <rect x="64" y="100" width="20" height="80" rx="2" fill="url(#whiteKey)" stroke="#ccc" stroke-width="1"/>
+  <rect x="86" y="100" width="20" height="80" rx="2" fill="url(#whiteKey)" stroke="#ccc" stroke-width="1"/>
+  <rect x="108" y="100" width="20" height="80" rx="2" fill="url(#whiteKey)" stroke="#ccc" stroke-width="1"/>
+  <rect x="130" y="100" width="20" height="80" rx="2" fill="url(#whiteKey)" stroke="#ccc" stroke-width="1"/>
+  <rect x="152" y="100" width="20" height="80" rx="2" fill="url(#whiteKey)" stroke="#ccc" stroke-width="1"/>
+  <!-- Black Keys -->
+  <rect x="35" y="100" width="14" height="50" rx="2" fill="url(#blackKey)"/>
+  <rect x="57" y="100" width="14" height="50" rx="2" fill="url(#blackKey)"/>
+  <rect x="101" y="100" width="14" height="50" rx="2" fill="url(#blackKey)"/>
+  <rect x="123" y="100" width="14" height="50" rx="2" fill="url(#blackKey)"/>
+  <rect x="145" y="100" width="14" height="50" rx="2" fill="url(#blackKey)"/>
+  <!-- Musical Notes -->
+  <g fill="#f1c40f">
+    <ellipse cx="45" cy="35" rx="8" ry="6" transform="rotate(-20 45 35)"/>
+    <rect x="51" y="15" width="3" height="25"/>
+    <path d="M54 15 Q65 20, 54 25 Q65 28, 54 35" fill="none" stroke="#f1c40f" stroke-width="2"/>
+  </g>
+  <g fill="#e74c3c">
+    <ellipse cx="100" cy="45" rx="7" ry="5" transform="rotate(-15 100 45)"/>
+    <rect x="105" y="25" width="2.5" height="22"/>
+  </g>
+  <g fill="#3498db">
+    <ellipse cx="150" cy="38" rx="7" ry="5" transform="rotate(-20 150 38)"/>
+    <rect x="155" y="18" width="2.5" height="23"/>
+    <path d="M157.5 18 Q168 22, 157.5 28" fill="none" stroke="#3498db" stroke-width="2"/>
+  </g>
+  <!-- Sound waves -->
+  <path d="M170 55 Q175 50, 180 55 Q175 60, 170 55" fill="none" stroke="#9b59b6" stroke-width="2" opacity="0.7"/>
+  <path d="M175 50 Q182 43, 188 50 Q182 57, 175 50" fill="none" stroke="#9b59b6" stroke-width="2" opacity="0.5"/>
+</svg>

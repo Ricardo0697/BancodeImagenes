@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="spaceBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="invader" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ff00"/>
+      <stop offset="100%" style="stop-color:#00cc00"/>
+    </linearGradient>
+    <linearGradient id="playerShip" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00bcd4"/>
+      <stop offset="100%" style="stop-color:#0097a7"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="200" height="200" rx="15" fill="url(#spaceBg)"/>
+  <!-- Stars -->
+  <circle cx="20" cy="20" r="1" fill="#fff"/>
+  <circle cx="50" cy="40" r="1.5" fill="#fff"/>
+  <circle cx="80" cy="15" r="1" fill="#fff"/>
+  <circle cx="120" cy="35" r="1" fill="#fff"/>
+  <circle cx="160" cy="20" r="1.5" fill="#fff"/>
+  <circle cx="180" cy="50" r="1" fill="#fff"/>
+  <circle cx="30" cy="70" r="1" fill="#fff"/>
+  <circle cx="170" cy="80" r="1" fill="#fff"/>
+  <!-- Invaders Row 1 -->
+  <g fill="url(#invader)">
+    <!-- Invader 1 -->
+    <g transform="translate(25, 25)">
+      <rect x="4" y="0" width="4" height="4"/>
+      <rect x="12" y="0" width="4" height="4"/>
+      <rect x="0" y="4" width="4" height="4"/>
+      <rect x="4" y="4" width="4" height="4"/>
+      <rect x="8" y="4" width="4" height="4"/>
+      <rect x="12" y="4" width="4" height="4"/>
+      <rect x="16" y="4" width="4" height="4"/>
+      <rect x="0" y="8" width="4" height="4"/>
+      <rect x="8" y="8" width="4" height="4"/>
+      <rect x="16" y="8" width="4" height="4"/>
+      <rect x="4" y="12" width="4" height="4"/>
+      <rect x="12" y="12" width="4" height="4"/>
+    </g>
+    <!-- Invader 2 -->
+    <g transform="translate(65, 25)">
+      <rect x="4" y="0" width="4" height="4"/>
+      <rect x="12" y="0" width="4" height="4"/>
+      <rect x="0" y="4" width="4" height="4"/>
+      <rect x="4" y="4" width="4" height="4"/>
+      <rect x="8" y="4" width="4" height="4"/>
+      <rect x="12" y="4" width="4" height="4"/>
+      <rect x="16" y="4" width="4" height="4"/>
+      <rect x="0" y="8" width="4" height="4"/>
+      <rect x="8" y="8" width="4" height="4"/>
+      <rect x="16" y="8" width="4" height="4"/>
+      <rect x="4" y="12" width="4" height="4"/>
+      <rect x="12" y="12" width="4" height="4"/>
+    </g>
+    <!-- Invader 3 -->
+    <g transform="translate(105, 25)">
+      <rect x="4" y="0" width="4" height="4"/>
+      <rect x="12" y="0" width="4" height="4"/>
+      <rect x="0" y="4" width="4" height="4"/>
+      <rect x="4" y="4" width="4" height="4"/>
+      <rect x="8" y="4" width="4" height="4"/>
+      <rect x="12" y="4" width="4" height="4"/>
+      <rect x="16" y="4" width="4" height="4"/>
+      <rect x="0" y="8" width="4" height="4"/>
+      <rect x="8" y="8" width="4" height="4"/>
+      <rect x="16" y="8" width="4" height="4"/>
+      <rect x="4" y="12" width="4" height="4"/>
+      <rect x="12" y="12" width="4" height="4"/>
+    </g>
+    <!-- Invader 4 -->
+    <g transform="translate(145, 25)">
+      <rect x="4" y="0" width="4" height="4"/>
+      <rect x="12" y="0" width="4" height="4"/>
+      <rect x="0" y="4" width="4" height="4"/>
+      <rect x="4" y="4" width="4" height="4"/>
+      <rect x="8" y="4" width="4" height="4"/>
+      <rect x="12" y="4" width="4" height="4"/>
+      <rect x="16" y="4" width="4" height="4"/>
+      <rect x="0" y="8" width="4" height="4"/>
+      <rect x="8" y="8" width="4" height="4"/>
+      <rect x="16" y="8" width="4" height="4"/>
+      <rect x="4" y="12" width="4" height="4"/>
+      <rect x="12" y="12" width="4" height="4"/>
+    </g>
+  </g>
+  <!-- Invaders Row 2 (different type) -->
+  <g fill="#ff00ff">
+    <g transform="translate(45, 60)">
+      <rect x="8" y="0" width="4" height="4"/>
+      <rect x="4" y="4" width="4" height="4"/>
+      <rect x="8" y="4" width="4" height="4"/>
+      <rect x="12" y="4" width="4" height="4"/>
+      <rect x="0" y="8" width="4" height="4"/>
+      <rect x="4" y="8" width="4" height="4"/>
+      <rect x="8" y="8" width="4" height="4"/>
+      <rect x="12" y="8" width="4" height="4"/>
+      <rect x="16" y="8" width="4" height="4"/>
+      <rect x="0" y="12" width="4" height="4"/>
+      <rect x="16" y="12" width="4" height="4"/>
+    </g>
+    <g transform="translate(85, 60)">
+      <rect x="8" y="0" width="4" height="4"/>
+      <rect x="4" y="4" width="4" height="4"/>
+      <rect x="8" y="4" width="4" height="4"/>
+      <rect x="12" y="4" width="4" height="4"/>
+      <rect x="0" y="8" width="4" height="4"/>
+      <rect x="4" y="8" width="4" height="4"/>
+      <rect x="8" y="8" width="4" height="4"/>
+      <rect x="12" y="8" width="4" height="4"/>
+      <rect x="16" y="8" width="4" height="4"/>
+      <rect x="0" y="12" width="4" height="4"/>
+      <rect x="16" y="12" width="4" height="4"/>
+    </g>
+    <g transform="translate(125, 60)">
+      <rect x="8" y="0" width="4" height="4"/>
+      <rect x="4" y="4" width="4" height="4"/>
+      <rect x="8" y="4" width="4" height="4"/>
+      <rect x="12" y="4" width="4" height="4"/>
+      <rect x="0" y="8" width="4" height="4"/>
+      <rect x="4" y="8" width="4" height="4"/>
+      <rect x="8" y="8" width="4" height="4"/>
+      <rect x="12" y="8" width="4" height="4"/>
+      <rect x="16" y="8" width="4" height="4"/>
+      <rect x="0" y="12" width="4" height="4"/>
+      <rect x="16" y="12" width="4" height="4"/>
+    </g>
+  </g>
+  <!-- Player Ship -->
+  <g transform="translate(80, 155)">
+    <polygon points="20,0 0,25 15,25 15,35 25,35 25,25 40,25" fill="url(#playerShip)"/>
+    <rect x="18" y="5" width="4" height="8" fill="#00ff00"/>
+  </g>
+  <!-- Laser -->
+  <rect x="98" y="100" width="4" height="15" fill="#00ff00">
+    <animate attributeName="y" values="100;50;100" dur="0.5s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Shields -->
+  <g fill="#00aa00">
+    <rect x="30" y="130" width="30" height="15" rx="3"/>
+    <rect x="85" y="130" width="30" height="15" rx="3"/>
+    <rect x="140" y="130" width="30" height="15" rx="3"/>
+  </g>
+  <!-- Score -->
+  <text x="100" y="195" font-family="monospace" font-size="12" fill="#fff" text-anchor="middle">SCORE: 1580</text>
+</svg>
